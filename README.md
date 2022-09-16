@@ -1,5 +1,5 @@
 # rest-API
-Basic CRUD performing api's using react and nodejs:sparkles:
+Basic CRUD performing api's using react and nodejs:sparkles::sparkles:
 
 
 ## Requirements
